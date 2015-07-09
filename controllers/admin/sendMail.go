@@ -2,7 +2,6 @@ package admin
 
 import (
 	"fmt"
-<<<<<<< HEAD
 	"strconv"
 
 	"gopkg.in/gomail.v1"
@@ -11,11 +10,6 @@ import (
 const (
 	ip = "sokys.synology.me"
 )
-=======
-
-	"gopkg.in/gomail.v1"
-)
->>>>>>> origin/master
 
 type EmailConfig struct {
 	Username string
@@ -110,7 +104,6 @@ func sendMail(mail string, md5 string) error {
 			fmt.Println("Email envoyé")
 		}
 	}()
-<<<<<<< HEAD
 	return err
 }
 
@@ -163,7 +156,5 @@ func SendMailUpdate(mail string, id int, titre string) error {
 			fmt.Println("Email de modification envoyé! :-)")
 		}
 	}()
-=======
->>>>>>> origin/master
 	return err
 }
