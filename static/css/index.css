@@ -1,0 +1,33 @@
+ul.nav a:hover {
+	background-color: #E7E7E7 !important;
+	color: #000 !important;
+}
+
+.content{
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+.content h2{
+	text-align: center;
+}
+
+.container-fluid{
+	padding: 0px 20px;
+}
+
+.glyphicon-eye-open{
+	color: #fff;
+}
+
+.glyphicon-lg{
+	font-size: 1.5em;
+}
+
+.glyphicon-remove{
+	color: red;
+}
+
+.glyphicon-remove:hover{
+	cursor: auto;
+}
