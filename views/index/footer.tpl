@@ -5,5 +5,5 @@
 	<script type="text/javascript" src="/static/bower_components/eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js"></script>
 	<script src="/static/js/index.js" charset="utf-8"></script>
 	<script src="/static/js/jquery.dataTables.js" charset="utf-8"></script>
-	<h3>Footer</h3>
+	<h3><a href="mailto:sokys.golang@gmail.com">Pour me contacter cliques ici</h3>
 </footer>
